@@ -1,0 +1,1 @@
+# vpn-clipboard.min.js
